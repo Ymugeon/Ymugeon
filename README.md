@@ -63,7 +63,7 @@
             <p>Ich biete an:
                 Logo herstellung nach ihrem Wunsch
                 /Kostenlosigkeit
-                /WebsitesSie können mich per E-Mail kontaktieren und mir ihren     Wunsch sagen,ich mache es und schocke es ihnen zurück</p>
+                /Websites. Sie können mich per E-Mail kontaktieren und mir ihren     Wunschlogo oder Wunschwebsite sagen/erklären, ich mache es und schicke es ihnen zurück</p>
         </section>
         <section id="contact">
             <h2>Kontakt</h2>
