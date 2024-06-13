@@ -46,7 +46,7 @@
 </head>
 <body>
     <header>
-        <h1>Willkommen auf meiner Website</h1>
+        <h1>NMG</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -55,15 +55,21 @@
     </nav>
     <div class="container">
         <section id="home">
-            <h2>NMG</h2>
+            <h2>Willkommen auf meiner Website</h2>
             <p>Willkommen!</p>
         </section>
         <section id="about">
             <h2>Arbeit</h2>
             <p>Ich biete an:
-                -Logo herstellung nach ihrem Wunsch
-                -Kostenlosigkeit
-                -Websites</p>
+                Logo herstellung nach ihrem Wunsch
+                /Kostenlosigkeit
+                /Websites
+            
+            
+            
+            
+            
+            Sie können mich per E-Mail kontaktieren und mir ihren     Wunsch sagen,ich mache es und schocke es ihnen zurück:-)</p>
         </section>
         <section id="contact">
             <h2>Kontakt</h2>
