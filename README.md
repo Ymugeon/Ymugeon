@@ -46,7 +46,7 @@
 </head>
 <body>
     <header>
-        <h1>Willkommen auf meiner kostenlosen Website</h1>
+        <h1>Willkommen auf meiner Website</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -55,20 +55,23 @@
     </nav>
     <div class="container">
         <section id="home">
-            <h2>Home</h2>
-            <p>Dies ist meine Startseite. Willkommen!</p>
+            <h2>NMG</h2>
+            <p>Willkommen!</p>
         </section>
         <section id="about">
-            <h2>Über uns</h2>
-            <p>Hier findest du Informationen über mich und mein Projekt.</p>
+            <h2>Arbeit</h2>
+            <p>Ich biete an:
+                -Logo herstellung nach ihrem Wunsch
+                -Kostenlosigkeit
+                -Websites</p>
         </section>
         <section id="contact">
             <h2>Kontakt</h2>
-            <p>Du kannst mich per E-Mail unter <a href="mailto:beispiel@domain.com">beispiel@domain.com</a> erreichen.</p>
+            <p>Du kannst mich per E-Mail unter <a href="noe.gumy@lern.ksab.ch">noe.gumy@lern.ksab.ch</a> erreichen.</p>
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Meine kostenlose Website</p>
+        <p>&copy; 2024 Meine Website</p>
     </footer>
 </body>
 </html>
