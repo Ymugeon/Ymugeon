@@ -56,7 +56,7 @@
     <div class="container">
         <section id="home">
             <h2>Willkommen auf meiner Website</h2>
-            <p>Willkommen!</p>
+            <p>Ich game gerne Minecraft und SimCity</p>
         </section>
         <section id="about">
             <h2>Arbeit</h2>
